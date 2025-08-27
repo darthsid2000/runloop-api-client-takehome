@@ -3,9 +3,9 @@
   "devbox-name": "siddarthchal@gmail.com",
   "devbox-id": "dbx_30sWXoSMEbIVdN2iUpcb0",
   "snapshot-id": "snp_30sWXs9jA8y7o7UuJNy3Y",
-  "blueprint-name": "YOUR_BLUEPRINT_NAME",
-  "blueprint-id": "YOUR_BLUEPRINT_ID",
-  "devbox-from-blueprint-id": "YOUR_BLUEPRINT_DEVBOX_ID",
-  "devbox-from-blueprint-name": "YOUR_BLUEPRINT_DEVBOX_NAME",
+  "blueprint-name": "siddarthchal@gmail.com-cowsay-blueprint",
+  "blueprint-id": "bpt_30sXZBRIKOkISGSPi2r9Q",
+  "devbox-from-blueprint-id": "dbx_30sXaARQJeinBteow5sDS",
+  "devbox-from-blueprint-name": "siddarthchal@gmail.com-from-blueprint",
   "ext-scenario-run-id": "YOUR_SCENARIO_RUN_ID"
 }
