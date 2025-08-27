@@ -97,7 +97,7 @@ def main():
         copy_resources_directory(client, devbox_id)
 
         print("[1.b] Editing resources/me.txt...")
-        put_text_file(client, devbox_id, "resources/me.txt", os.environ.get("EMAIL"))
+        put_text_file(client, devbox_id, "resources/me.txt", f"email={os.environ.get('EMAIL')}")
 
 
         print(f"[1.b] Running {args.run}...")
