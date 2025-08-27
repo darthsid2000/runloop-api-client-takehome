@@ -117,11 +117,6 @@ def main():
         print("✅ Task 1 done.")
     except Exception as e:
         print(f"Error: {e}")
-    finally:
-        # Clean up
-        if 'devbox' in locals():
-            print("\nShutting down devbox...")
-            client.devboxes.shutdown(devbox.id)
 
 if __name__ == "__main__":
     main()
